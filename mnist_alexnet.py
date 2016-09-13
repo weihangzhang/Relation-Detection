@@ -7,7 +7,6 @@ training_iters = 200000
 batch_size = 64
 display_step = 20
 
-
 n_input = 784 # input dimension 
 n_classes = 10 # output dimension
 dropout = 0.8 # Dropout rate
